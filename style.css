@@ -1,0 +1,31 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.container{
+	padding-top:2rem;
+	width:90%;
+	margin:auto;
+}
+.row{
+	display:flex;
+}
+.col{
+	width:50%;
+}
+.image img{
+width:100%;
+}
+.card{
+	padding-top:4rem;
+	padding-left:1rem;
+	display:flex;
+}
+.card .hp{
+	padding-left:1rem;
+}
+i{
+	font-size:30px;
+	color:yellow;
+}
